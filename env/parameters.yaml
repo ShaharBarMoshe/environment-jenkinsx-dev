@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jenkinsx/adminUser:password
+  username: ShaharBarMoshe
+enableDocker: false
+pipelineUser:
+  email: ShaharBarMoshe@gmail.com
+  token: local:jenkinsx/pipelineUser:token
+  username: ShaharBarMoshe
+prow:
+  hmacToken: local:jenkinsx/prow:hmacToken
